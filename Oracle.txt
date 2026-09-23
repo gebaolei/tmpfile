@@ -18,3 +18,4 @@
 172.64.229.64:443#日本-CF
 openai.com:443#OpenAi-CF
 123.cf.090227.xyz:443#227-CF
+www.shopify.com:443#shopify-CF
